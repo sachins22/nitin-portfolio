@@ -53,7 +53,7 @@ function App() {
                 <Mail size={18} />
                 Contact Me
               </a>
-              <a href="https://www.linkedin.com/in/nitin-sharma" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-emerald-800 hover:bg-emerald-700 px-3 sm:px-4 py-2 rounded-lg transition-colors text-sm sm:text-base">
+              <a href="https://www.linkedin.com/in/nitin-sharma-0597b131a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 bg-emerald-800 hover:bg-emerald-700 px-3 sm:px-4 py-2 rounded-lg transition-colors text-sm sm:text-base">
                 <Linkedin size={18} />
                 LinkedIn
               </a>
